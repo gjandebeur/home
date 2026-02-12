@@ -43,7 +43,7 @@ const about = {
   imageSize: 375,
   message:
     " My name is Gabe Jandebeur. I'm a first-year PhD student at the University of Oklahoma Health Sciences Center, where I focus on genomics and bioinformatics. ",
-  resume: "https://docs.google.com/document/d/13VS5fmg3Po_7VHU6AkNL5_CF7hIQkNvpqXxu7ZDSJ54/edit?tab=t.0",
+  resume: "https://docs.google.com/document/d/e/2PACX-1vQ6cg-g2yfag5jXFj-ujhi_AQ6rxJKDnShsTrFN7rRR03qJ4AJrTK1aUwSxMYG048ttK-IX9WIbNVqb/pub",
 };
 
 // PROJECTS SECTION
