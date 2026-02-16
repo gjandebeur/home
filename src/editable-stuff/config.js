@@ -43,7 +43,7 @@ const about = {
   imageSize: 375,
   message:
     " I'm a first-year PhD student in computational biology at the University of Oklahoma Health Sciences Center. My research interests center on bioinformatics, genomics, and machine learning, with a particular fascination for noncoding DNA and epigenetic regulation. I'm currently rotating through labs to find the right fit and build collaborations while developing computational approaches to understand regulatory elements in human disease.",
-  CV: require("../editable-stuff/Jandebeur_CV_spring26.pdf"),
+  resume: require("../editable-stuff/Jandebeur_CV_spring26.pdf"),
 };
 
 // PROJECTS SECTION
